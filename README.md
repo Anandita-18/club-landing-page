@@ -4,11 +4,11 @@ A simple and responsive landing page built during my first hackathon. It showcas
 
  =>Features :
 
-   # Responsive layout
+  > Responsive layout
 
-   # About, Events, Team, and Contact sections
+  >About, Events, Team, and Contact sections
 
-   # Clean UI with smooth navigation
+  >Clean UI with smooth navigation
 
 =>Tech Used :
   #HTML
