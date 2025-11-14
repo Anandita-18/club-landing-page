@@ -1,23 +1,20 @@
-Club Landing Page
+Club Landing Page :
 
 A simple and responsive landing page built during my first hackathon. It showcases the club’s purpose, sections, and design.
 
-Features
+ =>Features :
 
-Responsive layout
+   # Responsive layout
 
-About, Events, Team, and Contact sections
+   # About, Events, Team, and Contact sections
 
-Clean UI with smooth navigation
+   # Clean UI with smooth navigation
 
-Tech Used
+=>Tech Used :
+  #HTML
+  #CSS
+  
+=>Live Demo:
+https://anandita-18.github.io/club-landing-page/
 
-HTML
 
-CSS
-
-
-
-How to Run
-
-Just open index.html in your browser.
